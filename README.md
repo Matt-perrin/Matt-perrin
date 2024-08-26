@@ -1,8 +1,8 @@
-## Hello, I'm Matthew Perrin. 👋
+# Hello, I'm Matthew Perrin. 👋
 
-## I'm a junior data analysit
+## I'm a junior data analysit 📊
 
-## My goal is to leverage my abilities to empower those around me to pursue their passions while continually developing both the creative and logical aspects of my mind. I thrive on challenges and am committed to contributing to a strong team as we work toward our data-driven goals. My principles are rooted in hard work, loyalty, and a focus on what makes us human. With a positive outlook, effective communication, and a strong work ethic, I believe in a bright and successful future ahead.
+ 😄 My goal is to leverage my abilities to empower those around me to pursue their passions while continually developing both the creative and logical aspects of my mind. I thrive on challenges and am committed to contributing to a strong team as we work toward our data-driven goals. My principles are rooted in hard work, loyalty, and a focus on what makes us human. With a positive outlook, effective communication, and a strong work ethic, I believe in a bright and successful future ahead.
 <!--
 **Matt-perrin/Matt-perrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
